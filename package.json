@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@sanity/client": "^6.24.1",
-    "@sanity/preview-kit": "^5.1.26",
     "@sanity/image-url": "^1.1.0",
+    "@sanity/preview-kit": "^5.1.26",
     "@sanity/vision": "^3.68.3",
     "@stripe/stripe-js": "^1.25.0",
     "canvas-confetti": "^1.5.1",
